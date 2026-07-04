@@ -11,3 +11,5 @@ puts t2 != f1
 
 puts !t1
 puts !f1
+
+# if文から
